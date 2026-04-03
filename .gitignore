@@ -1,0 +1,15 @@
+# Ignorer les fichiers sensibles
+credentials.json
+token.json
+config.py
+credentials.json.html
+*.pyc
+__pycache__/
+credentials.json
+token.json
+config.py
+*.pyc
+__pycache__/
+credentials.json
+token.json
+config.py
