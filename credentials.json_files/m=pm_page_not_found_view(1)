@@ -1,0 +1,11 @@
+"use strict";this.default_r_zfdvltmqh=this.default_r_zfdvltmqh||{};(function(_){var window=this;
+try{
+_.hi("pm_page_not_found_view");
+var QFg=function(a){a&1&&(_.K(0,"li"),_.M(1,"a",9),_.L())},RFg=class{constructor(){this.welcomeUrl=_.nxb.create().link().asString();this.cloudBrandName=_.gj();this.consoleDocBaseUrl=_.Dc(_.tBa());this.isTpc=_.dj()}};RFg.\u0275fac=function(a){return new (a||RFg)};
+RFg.\u0275cmp=_.B({type:RFg,selectors:[["page-not-found"]],hostAttrs:[1,"cfc-flex-layout-column"],decls:14,vars:5,consts:()=>["URL introuvable","Nous n'avons pas trouv\u00e9 ce que vous recherchiez. Veuillez essayer l'un des liens ci-dessous.","Accueil \ufffd0\ufffd",["linkText","Documentation \ufffd0\ufffd"],[1,"cfc-space-first"],["cfc-list",""],["cfcTrackedLink","","track-type","errorAction","track-name","toConsole",3,"cfcRouterLink"],["cfcTrackedLink","","track-type","errorAction","track-name",
+"toMarketing",3,"cfc-external-link",6,"linkText"],[4,"ngIf"],"cfc-external-link;http://developers.google.com;cfcTrackedLink;;track-type;errorAction;track-name;toDeveloperDocs;linkText;Google for\u00a0Developers".split(";")],template:function(a,b){a&1&&(_.K(0,"cfc-single-panel-layout")(1,"cfc-panel-body")(2,"h2",4),_.O(3,0),_.L(),_.K(4,"p"),_.O(5,1),_.L(),_.K(6,"ul",5)(7,"li")(8,"a",6),_.O(9,2),_.L()(),_.K(10,"li")(11,"a",7),_.Jg(12,3),_.L()(),_.F(13,QFg,2,0,"li",8),_.L()()());a&2&&(_.A(8),_.I("cfcRouterLink",
+b.welcomeUrl),_.A(),_.Kg(b.cloudBrandName),_.Lg(9),_.A(2),_.Kg(b.cloudBrandName),_.Lg(12),_.I("cfc-external-link",b.consoleDocBaseUrl),_.A(2),_.I("ngIf",!b.isTpc))},dependencies:[_.Br,_.On,_.In,_.Fr,_.Er,_.rr,_.Tob,_.lt,_.kt,_.rt,_.qt,_.it,_.ht,_.vq],encapsulation:2,changeDetection:1});_.El=class{};_.El.\u0275fac=function(a){return new (a||_.El)};_.El.\u0275mod=_.xf({type:_.El,id:"pm_page_not_found_view"});_.El.\u0275inj=_.Bd({imports:[_.tt([{path:"",component:RFg}])]});_.ng(_.El,"pm_page_not_found_view");
+_.ii();
+}catch(e){_._DumpException(e)}
+}).call(this,this.default_r_zfdvltmqh);
+// Google Inc.
