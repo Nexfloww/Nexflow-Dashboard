@@ -16,3 +16,6 @@ config.py
 credentials.json
 token.json
 config.py
+credentials.json.html
+credentials.json
+token.json
