@@ -44,7 +44,7 @@ a:hover { text-decoration: underline; }
     </div>
     <div class="card">
         <h2>Objectif mensuel</h2>
-        <p id="objectif-mois">75</p>
+        <p id="objectif-mois">420</p>
     </div>
     <div class="card">
         <h2>Contacts uniques</h2>
@@ -114,7 +114,7 @@ function fetchData() {
 
 function updateDashboard() {
     const emailsEnvoyes = dataGlobal.length;
-    const objectif = 75;
+    const objectif = 420;
     const contactsUniques = [...new Set(dataGlobal.map(d => d.nom))].length;
     const villes = [...new Set(dataGlobal.map(d => d.ville))].length;
 
